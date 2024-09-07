@@ -27,5 +27,8 @@ public class ArrayListConcepts {
         int Get=list1.get(0);                                           /* Get method is used to get the values from the list by using index as the parameter */
         System.out.println("Element at 0th index "+Get);
 
+
+        list1.set(1,0);                                                 /* The set method used to change the value i.e update the index 1 value to 0 or any other value that is passed in */
+                                                                        /* set(index,value)
     }
 }
