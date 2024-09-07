@@ -29,6 +29,6 @@ public class ArrayListConcepts {
 
 
         list1.set(1,0);                                                 /* The set method used to change the value i.e update the index 1 value to 0 or any other value that is passed in */
-                                                                        /* set(index,value)
+                                                                        /* set(index,value) */
     }
 }
